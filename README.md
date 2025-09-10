@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="styles.css">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.8">
-        <title> About Me</title>
+        
     </head> 
     <body style="background-color: aquamarine;">
         <h1 style="font-size: 35 pxpx; text-align: center;  color: rgb(27, 26, 26);"><mark><em>𐙚 ‧₊˚ ⋅ BALDUEZA, BARBIE D.𐙚 ‧₊˚ ⋅</em></mark></h1>
